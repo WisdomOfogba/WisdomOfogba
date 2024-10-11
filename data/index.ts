@@ -120,9 +120,14 @@ export const navItems = [
       link: "https://x.com/OfogbaWisd50646"
     },
     {
-      id: 2,
+      id: 3,
       img: "/link.svg",
       link: "https://www.linkedin.com/in/wisdom-ofogba"
+    },
+    {
+      id: 4,
+      img: "/what.svg",
+      link: "https://wa.me/+2348163657363"
     },
   ];
   
